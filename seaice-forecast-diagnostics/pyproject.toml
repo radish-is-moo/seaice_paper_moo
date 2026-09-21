@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seaice-forecast-diagnostics"
+version = "0.1.0"
+description = "Regional and state-based diagnostics of AI sea-ice forecast errors near the Northern Sea Route"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "scipy>=1.10", "pandas>=2.0", "xarray>=2023.1", "matplotlib>=3.7", "Pillow>=10", "tqdm>=4.65"]
+
+[project.optional-dependencies]
+maps = ["cartopy>=0.22"]
+training = ["torch>=2.1", "torch-geometric>=2.4", "netCDF4>=1.6", "dask[array]>=2023.1", "jupyterlab>=4"]
+test = ["pytest>=7"]
+
+[project.scripts]
+seaice-diagnostics = "seaice_diagnostics.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

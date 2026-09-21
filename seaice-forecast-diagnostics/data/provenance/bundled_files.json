@@ -1,0 +1,67 @@
+[
+  {
+    "path": "data/figure_inputs/figure3_case.npz",
+    "sha256": "d4e01d08576d54b7c97a020511fe2bb1a352158f3b79e819533214a2908aeef9",
+    "bytes": 903306
+  },
+  {
+    "path": "data/figure_inputs/initial_conditions/figure5_band_crosscheck.csv",
+    "sha256": "5afaceb6bfcc4dafb7dc1060b5d5a5afde64013561b67520420d72cf5aa6d0d9",
+    "bytes": 8471
+  },
+  {
+    "path": "data/figure_inputs/initial_conditions/tables/initial_lead_summary.csv",
+    "sha256": "bf082574dbc3b17c69aefff53b3cf6b0d15735aa5ea4a4603e46e33f26c90b7f",
+    "bytes": 103969
+  },
+  {
+    "path": "data/figure_inputs/ocean/diagnostics/figure6_reference_anomaly_persistence_jul_oct_2023_2025.npz",
+    "sha256": "906fe06dbffe72dd192be88d44aa618db9fbc4189820eb9a41a081b3c2007974",
+    "bytes": 2622281
+  },
+  {
+    "path": "data/figure_inputs/ocean/figure4_plotted_values.csv",
+    "sha256": "27ff4d65f003708472ddedc0f51deee41bc09eff74c6981492d6b99f7c671a81",
+    "bytes": 134687
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure3_candidate_ranking.csv",
+    "sha256": "095c8c31d820f57144a3c12d8da73e745cdadf5c3998b8f9caf89cb296c44f0a",
+    "bytes": 10850
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure3_regime_metrics_area_weighted.csv.gz",
+    "sha256": "ea4ab8cdff4465e32dd780baae9320284628c3918fd16dc4b8a114d8baed2a14",
+    "bytes": 50877
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure4_lead_time_metrics_area_weighted_bootstrap5000.csv.gz",
+    "sha256": "f725aa534d58d707c7dd08dcd086d37990f2cb446399d9c433c4da74e9dbf765",
+    "bytes": 55120
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure7_miz_non_miz_summary.csv",
+    "sha256": "1c112c1da5ee90f1193d55a9499f69195033c4deb86708d4a97951fae51298b2",
+    "bytes": 3395
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure7_transition_summary.csv",
+    "sha256": "1bb55b8652a84ec82eb4522459f0d6d2012556e29a746223fc1996d2ecc964ff",
+    "bytes": 1149
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure7_transition_type_summary.csv",
+    "sha256": "bf38842ecfe6906ced3751dc658b49cda4398285d5b3839ed4e0fed3274c4cbf",
+    "bytes": 8283
+  },
+  {
+    "path": "data/figure_inputs/states/tables/lead_summary.csv",
+    "sha256": "200b9e374b04ed3b781d39558a563f5990937c2474fe6cdb2650c0ad3a5f8b55",
+    "bytes": 40591
+  },
+  {
+    "path": "data/masks/piomas_ocean_mask_025deg.npz",
+    "sha256": "c73ace27347312eacd21479ecceb6297b4253ee068f199d6b04450a5ae5a11a2",
+    "bytes": 204109
+  }
+]

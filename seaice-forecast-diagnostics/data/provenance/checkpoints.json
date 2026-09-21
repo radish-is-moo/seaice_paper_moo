@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    {
+      "path": "best_simple_cnn_epoch20_patience3_1979_2025_ver2.pth",
+      "sha256": "715361366c7ea7651a4350a4b1500dea4eeb09574e27ff3327caa4a1c12f7bd6"
+    },
+    {
+      "path": "best_simple_unet_epoch20_patience3_1979_2025_ver2.pth",
+      "sha256": "0563d65f4ff70f7dbd11ce85af057496c0b9c72addb5f1f4a2fb70ecdd79a421"
+    },
+    {
+      "path": "best_gnn_gridonly_epoch20_patience3_1979_2025_ver2.pth",
+      "sha256": "ddb16b5ecc781023a85b6893ce9b947b61777f85b6a352d7546eab244b104c11"
+    }
+  ]
+}

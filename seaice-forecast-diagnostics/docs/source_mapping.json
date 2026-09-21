@@ -1,0 +1,178 @@
+[
+  {
+    "source": "research_project/code/manuscript_ver2_2023_2025_regeneration/regeneration_core.py",
+    "sha256": "4b4bc9baef85e343f4689d9d813bc0857613ab6159498a4d4520f671d30fae41",
+    "release": "src/seaice_diagnostics/protocol.py"
+  },
+  {
+    "source": "research_project/code/ocean_only_figure_regeneration/ocean_only_core.py",
+    "sha256": "e4a111fc686cf966f11490f75ed6a1c35d46c59dff0b33e1c448545668711d44",
+    "release": "src/seaice_diagnostics/numerics.py"
+  },
+  {
+    "source": "research_project/code/recommended_figure_set/recommended_figure_core.py",
+    "sha256": "25b6942c51b15ba662a58c28e0643895632e9ad2436840887336e96d4107ce05",
+    "release": "src/seaice_diagnostics/numerics.py"
+  },
+  {
+    "source": "research_project/tools/recompute_block_bootstrap_and_select_figure3.py",
+    "sha256": "296eba373b59b46c94eb299a6200770e7413ea8befde989ff6b076d4e1c87281",
+    "release": "src/seaice_diagnostics/statistics.py"
+  },
+  {
+    "source": "research_project/code/seaice_prediction_2023_2025_ver2/seaice_prediction_cnn_ver2.ipynb",
+    "sha256": "97f71e927384bc7debf5678439a26fee38b8a92a5fb1747e24c4d0780e41a4c0",
+    "release": "notebooks/train_cnn.ipynb"
+  },
+  {
+    "source": "research_project/code/seaice_prediction_2023_2025_ver2/seaice_prediction_unet_ver2.ipynb",
+    "sha256": "014a9a76f447b3093f67fee5af5cf9e8b1880391a9fe85a548fac66415296f49",
+    "release": "notebooks/train_unet.ipynb"
+  },
+  {
+    "source": "research_project/code/seaice_prediction_2023_2025_ver2/seaice_prediction_gnn_ver2.ipynb",
+    "sha256": "4d25c17729dc882bbd9c219e2bcfeb3c0aee4be2fff124873df5f9dce477e2a4",
+    "release": "notebooks/train_gnn.ipynb"
+  },
+  {
+    "source": "research_project/code/manuscript_ver2_2023_2025_regeneration/inference_runtime.py",
+    "sha256": "e99aa97debbbd497629666f04414da85894ebc18bf7e6bef13da336986d90ebb",
+    "release": "src/seaice_diagnostics/inference.py"
+  },
+  {
+    "source": "research_project/code/manuscript_ver2_2023_2025_regeneration/diagnostics.py",
+    "sha256": "bf43dd62fae4cacfbabd430e9f00fb0818b53609b2d6aa719277db2b11bd1657",
+    "release": "src/seaice_diagnostics/diagnostics.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/pan_arctic_state_results_20260914/code/compute_state_metrics.py",
+    "sha256": "9bf30add8e7d57e98ab619b64fbdbfa6ea40f95fdd9e434aa0c84fc1a85f3ab1",
+    "release": "src/seaice_diagnostics/evaluate_states.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/figure5_all_pan_arctic_20260914/code/compute_initial_conditions.py",
+    "sha256": "0c6ae091a14ae5b98507c30d2984c6cb8323f3abc1a6f0c08de190206376ba5c",
+    "release": "src/seaice_diagnostics/evaluate_conditions.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/pan_arctic_state_results_20260914/code/summarize_state_growth.py",
+    "sha256": "2ea8bd48a54e19bfa006a971c4d47523bba2cd9538bb5a6b0e32899c8b638a53",
+    "release": "src/seaice_diagnostics/summarize_states.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/figure5_all_pan_arctic_20260914/code/summarize_initial_conditions.py",
+    "sha256": "06c6ed85a9f3af1531c672a903c4f48a232a55bcacf3868e204a19eec136d749",
+    "release": "src/seaice_diagnostics/summarize_conditions.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/code/align_figure7_paired_support.py",
+    "sha256": "1c591453fbb9bde905d1c29fec98556e0889e5a141f321457d94bff513c58c61",
+    "release": "src/seaice_diagnostics/pair_state_support.py"
+  },
+  {
+    "source": "research_project/code/long_term_reference_context/results/piomas_ocean_mask_025deg.npz",
+    "sha256": "c73ace27347312eacd21479ecceb6297b4253ee068f199d6b04450a5ae5a11a2",
+    "release": "data/masks/piomas_ocean_mask_025deg.npz"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/tables/figure3_candidate_ranking.csv",
+    "sha256": "095c8c31d820f57144a3c12d8da73e745cdadf5c3998b8f9caf89cb296c44f0a",
+    "release": "data/figure_inputs/ocean/tables/figure3_candidate_ranking.csv"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/tables/figure3_regime_metrics_area_weighted.csv.gz",
+    "sha256": "ea4ab8cdff4465e32dd780baae9320284628c3918fd16dc4b8a114d8baed2a14",
+    "release": "data/figure_inputs/ocean/tables/figure3_regime_metrics_area_weighted.csv.gz"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/tables/figure4_lead_time_metrics_area_weighted_bootstrap5000.csv.gz",
+    "sha256": "f725aa534d58d707c7dd08dcd086d37990f2cb446399d9c433c4da74e9dbf765",
+    "release": "data/figure_inputs/ocean/tables/figure4_lead_time_metrics_area_weighted_bootstrap5000.csv.gz"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/tables/figure7_transition_summary.csv",
+    "sha256": "1bb55b8652a84ec82eb4522459f0d6d2012556e29a746223fc1996d2ecc964ff",
+    "release": "data/figure_inputs/ocean/tables/figure7_transition_summary.csv"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/tables/figure7_miz_non_miz_summary.csv",
+    "sha256": "1c112c1da5ee90f1193d55a9499f69195033c4deb86708d4a97951fae51298b2",
+    "release": "data/figure_inputs/ocean/tables/figure7_miz_non_miz_summary.csv"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/tables/figure7_transition_type_summary.csv",
+    "sha256": "bf38842ecfe6906ced3751dc658b49cda4398285d5b3839ed4e0fed3274c4cbf",
+    "release": "data/figure_inputs/ocean/tables/figure7_transition_type_summary.csv"
+  },
+  {
+    "source": "manuscript_workspace/outputs/ocean_revalidation_20260914/diagnostics/figure6_reference_anomaly_persistence_jul_oct_2023_2025.npz",
+    "sha256": "906fe06dbffe72dd192be88d44aa618db9fbc4189820eb9a41a081b3c2007974",
+    "release": "data/figure_inputs/ocean/diagnostics/figure6_reference_anomaly_persistence_jul_oct_2023_2025.npz"
+  },
+  {
+    "source": "manuscript_workspace/outputs/pan_arctic_state_results_20260914/tables/lead_summary.csv",
+    "sha256": "200b9e374b04ed3b781d39558a563f5990937c2474fe6cdb2650c0ad3a5f8b55",
+    "release": "data/figure_inputs/states/tables/lead_summary.csv"
+  },
+  {
+    "source": "manuscript_workspace/outputs/figure5_all_pan_arctic_20260914/tables/initial_lead_summary.csv",
+    "sha256": "bf082574dbc3b17c69aefff53b3cf6b0d15735aa5ea4a4603e46e33f26c90b7f",
+    "release": "data/figure_inputs/initial_conditions/tables/initial_lead_summary.csv"
+  },
+  {
+    "source": "manuscript_workspace/outputs/figure5_all_pan_arctic_20260914/figures/figure5_plot_data.csv",
+    "sha256": "5afaceb6bfcc4dafb7dc1060b5d5a5afde64013561b67520420d72cf5aa6d0d9",
+    "release": "data/figure_inputs/initial_conditions/figure5_band_crosscheck.csv"
+  },
+  {
+    "source": "manuscript_workspace/outputs/manuscript_korean_20260914/code/portrait_figures_1_2_5_s1.py",
+    "sha256": "651a8a17e6056f3349c60d1c9ce1816f3e64a634c2957e1056ab23cd2ad5758d",
+    "release": "src/seaice_diagnostics/plot_overview.py"
+  },
+  {
+    "source": "research_project/code/analysis_1979_2025_v1/13_figure01_study_domain_nsr_masks.py",
+    "sha256": "ff25ec49ce97a7c77e8b51496fc4e15c56069e1c4af91b2c817e938684566987",
+    "release": "src/seaice_diagnostics/geography.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/manuscript_professor_revision_20260914/code/revise_figures_4_7.py",
+    "sha256": "a1d9e3ab3679e0177c674c35aa1faf92242b16aafb336a848341d1e9559d44dc",
+    "release": "src/seaice_diagnostics/plot_style.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/manuscript_korean_20260914/code/portrait_figures_4_7.py",
+    "sha256": "3017341ad6a13cd00c8147db3f3736e217cc273cb26389e8c3b3746905322e81",
+    "release": "src/seaice_diagnostics/plot_regional.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/figure_diagnostics_preview_20260920/figure5/create_figure5.py",
+    "sha256": "7b7a833f586da604170d835e9c9e909ed1782babe945d1f53373ff0e29af8c66",
+    "release": "src/seaice_diagnostics/plot_states.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/figure_diagnostics_preview_20260920/figure7/render_figure7_preview.py",
+    "sha256": "1a4b321109af169694741ef49519a4b25181fa51e67238a340bd501a2ef93a17",
+    "release": "src/seaice_diagnostics/plot_transitions.py"
+  },
+  {
+    "source": "manuscript_workspace/outputs/figure3_nsr_edges_only_20260920/render_preview.py",
+    "sha256": "84493039e943e7336a4061b2a06a2fc8892c0c0347214f66df00a19bc72ac2bc",
+    "release": "src/seaice_diagnostics/plot_maps.py"
+  },
+  {
+    "source": "research_project/code/long_term_reference_context/reference_context_core.py",
+    "sha256": "784fe00236eaf27e0fa7e2a2054f0596ef990b3f45ad953b8e7af572321e9534",
+    "release": "src/seaice_diagnostics/mask.py"
+  },
+  {
+    "source": "research_project/code/long_term_reference_context/build_piomas_ocean_mask.py",
+    "sha256": "03f405a4f3f798794f60308a3fec8b95961eb17cfe8ee27ef3067fe4a8fb151f",
+    "release": "src/seaice_diagnostics/build_mask.py"
+  },
+  {
+    "source": "research_project/code/seaice_prediction_2023_2025_ver2/seaice_prediction_gnn_ver2.ipynb",
+    "sha256": "4d25c17729dc882bbd9c219e2bcfeb3c0aee4be2fff124873df5f9dce477e2a4",
+    "release": "src/seaice_diagnostics/prepare_cache.py",
+    "note": "Daily cache construction functions extracted from code cell 3; no upstream regridding."
+  }
+]

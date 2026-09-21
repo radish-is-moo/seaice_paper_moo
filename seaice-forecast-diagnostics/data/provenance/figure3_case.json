@@ -1,0 +1,24 @@
+{
+  "init_date": "2024-09-24",
+  "target_date": "2024-10-24",
+  "lead_day": 30,
+  "operation": "Copy the final lead of each float32 reference/prediction array without numerical change.",
+  "source_archives": [
+    {
+      "path": "references/2024/2024-09-24.npz",
+      "sha256": "0e9f7a4fdf1e636e15ef79dcf39f7eb4ab86af30850e181954d71c9c568d3afe"
+    },
+    {
+      "path": "predictions/cnn/2024/2024-09-24.npz",
+      "sha256": "19ad8a62afd4538efaf8cfc3e472bbce8727387efee379a13b2d89d42cdd2da6"
+    },
+    {
+      "path": "predictions/unet/2024/2024-09-24.npz",
+      "sha256": "eac5812e3465891021293668674384096d52f0ca6d19b86868d164b23e0ed752"
+    },
+    {
+      "path": "predictions/gnn/2024/2024-09-24.npz",
+      "sha256": "b6b4c4c0d842f0237b73a29b013ecf6730ca38db463872694f2e9566edb76267"
+    }
+  ]
+}

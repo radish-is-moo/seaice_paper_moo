@@ -1,0 +1,64 @@
+domain,classification_basis,experiment_id,model,analysis_family,category,lead_band,rmse_mean,n_initializations,mean_area_km2
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,compact_ice,L1-5,0.0494789539488104,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,compact_ice,L16-30,0.1233816573611742,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,compact_ice,L6-15,0.0815272714377412,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,miz,L1-5,0.0676460848773648,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,miz,L16-30,0.1782370315718296,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,miz,L6-15,0.1238598672818713,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,open_water,L1-5,0.0233488676582627,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,open_water,L16-30,0.0693077519537021,282,
+pan_arctic,target_date,2023_2025_ver2,CNN,verification_state,open_water,L6-15,0.0479953374720679,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,compact_ice,L1-5,0.0542564635283292,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,compact_ice,L16-30,0.1784237636720935,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,compact_ice,L6-15,0.1008377312802963,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,miz,L1-5,0.0713710992849581,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,miz,L16-30,0.200615355105975,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,miz,L6-15,0.1380181611550789,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,open_water,L1-5,0.035722270904367,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,open_water,L16-30,0.1412087436038897,282,
+pan_arctic,target_date,2023_2025_ver2,GNN,verification_state,open_water,L6-15,0.090126479672398,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,compact_ice,L1-5,0.0488559971811713,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,compact_ice,L16-30,0.1208243933601008,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,compact_ice,L6-15,0.0829784511417211,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,miz,L1-5,0.0697258509827752,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,miz,L16-30,0.1740284606114683,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,miz,L6-15,0.1266508267897602,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,open_water,L1-5,0.0235004466377929,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,open_water,L16-30,0.0677983252022011,282,
+pan_arctic,target_date,2023_2025_ver2,U-Net,verification_state,open_water,L6-15,0.0447653271562731,282,
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,extreme,L1-5,0.0816404571650688,282,1322570.8143018123
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,extreme,L16-30,0.1996302021002378,282,1322570.8143018123
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,extreme,L6-15,0.1502430747413657,282,1322570.8143018123
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,high,L1-5,0.0618011562315804,282,3042222.6430306397
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,high,L16-30,0.1718679362786088,282,3042222.6430306397
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,high,L6-15,0.1188870256375376,282,3042222.6430306397
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,low,L1-5,0.0112369607271799,282,4620964.340297989
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,low,L16-30,0.0552246795543955,282,4620964.340297989
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,low,L6-15,0.0268470151548098,282,4620964.340297989
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,moderate,L1-5,0.0364581743990569,282,4241400.051218907
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,moderate,L16-30,0.112358766992479,282,4241400.051218907
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_gradient,moderate,L6-15,0.0697983727059285,282,4241400.051218907
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,medium_ice,L1-5,0.0611149359724491,282,3187229.380509393
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,medium_ice,L16-30,0.1684064893933706,282,3187229.380509393
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,medium_ice,L6-15,0.1174368053423064,282,3187229.380509393
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,open_water_no_ice,L1-5,0.0206568968766077,282,7640533.733160052
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,open_water_no_ice,L16-30,0.0690405704563797,282,7640533.733160052
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,open_water_no_ice,L6-15,0.0404600963129945,282,7640533.733160052
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,thick_ice,L1-5,0.0513074896760529,282,1480429.5343478026
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,thick_ice,L16-30,0.1196538511799785,282,1480429.5343478026
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,thick_ice,L6-15,0.0863902624334528,282,1480429.5343478026
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,thin_ice,L1-5,0.089157383695383,282,918965.2008312476
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,thin_ice,L16-30,0.2139050768107006,282,918965.2008312476
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_class,thin_ice,L6-15,0.1630984600560621,282,918965.2008312476
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,medium_thick_ice__high_upper_tail_wind,L1-5,0.0592371431711484,282,1337477.2418006244
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,medium_thick_ice__high_upper_tail_wind,L16-30,0.1521995843281236,282,1337477.2418006244
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,medium_thick_ice__high_upper_tail_wind,L6-15,0.1087175919871114,282,1337477.2418006244
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,medium_thick_ice__lower_middle_wind,L1-5,0.0580389358848711,282,3330181.6730564884
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,medium_thick_ice__lower_middle_wind,L16-30,0.1572455779682652,282,3330181.673056488
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,medium_thick_ice__lower_middle_wind,L6-15,0.1091783336506605,282,3330181.6730564884
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,thin_ice__high_upper_tail_wind,L1-5,0.0957525034826038,282,230521.85458915625
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,thin_ice__high_upper_tail_wind,L16-30,0.2113892875310944,282,230521.85458915625
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,thin_ice__high_upper_tail_wind,L6-15,0.1649152406876496,282,230521.85458915625
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,thin_ice__lower_middle_wind,L1-5,0.0863655071147794,282,688443.346242086
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,thin_ice__lower_middle_wind,L16-30,0.212843648914076,282,688443.346242086
+pan_arctic,initial_date_condition,2023_2025_ver2,Three-model equal mean,initial_sit_x_wind,thin_ice__lower_middle_wind,L6-15,0.1615529238288314,282,688443.346242086

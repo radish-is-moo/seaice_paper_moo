@@ -1,0 +1,7 @@
+{
+  "daily_cache": "data/external/daily_cache",
+  "archives": "data/external/archives",
+  "era5_sample": "data/external/era5/era5_combined_with_sst_1979.nc",
+  "results": "results",
+  "training": "results/training"
+}

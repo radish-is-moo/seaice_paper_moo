@@ -1,0 +1,302 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 110,
+    "sha256": "211db7fd3e4b2546ed93d81afb3d64d61f5c8741891132405a33ac7f37f7c424"
+  },
+  {
+    "path": ".github/workflows/tests.yml",
+    "bytes": 352,
+    "sha256": "aebbafadbab03c33d724749df985e7f11b9c5346f1a9bbd6ddc72eebf3e719ab"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 246,
+    "sha256": "f9c5de19bf03b44019c4fa0b94886584f515b56348d5d366a3440ee7a8459122"
+  },
+  {
+    "path": "configs/paths.example.json",
+    "bytes": 217,
+    "sha256": "4ee72d34bb12b5f4571dc63e434cde8c90a83893e3c67f13b87c548323db37da"
+  },
+  {
+    "path": "data/figure_inputs/figure3_case.npz",
+    "bytes": 903306,
+    "sha256": "d4e01d08576d54b7c97a020511fe2bb1a352158f3b79e819533214a2908aeef9"
+  },
+  {
+    "path": "data/figure_inputs/initial_conditions/figure5_band_crosscheck.csv",
+    "bytes": 8471,
+    "sha256": "5afaceb6bfcc4dafb7dc1060b5d5a5afde64013561b67520420d72cf5aa6d0d9"
+  },
+  {
+    "path": "data/figure_inputs/initial_conditions/tables/initial_lead_summary.csv",
+    "bytes": 103969,
+    "sha256": "bf082574dbc3b17c69aefff53b3cf6b0d15735aa5ea4a4603e46e33f26c90b7f"
+  },
+  {
+    "path": "data/figure_inputs/ocean/diagnostics/figure6_reference_anomaly_persistence_jul_oct_2023_2025.npz",
+    "bytes": 2622281,
+    "sha256": "906fe06dbffe72dd192be88d44aa618db9fbc4189820eb9a41a081b3c2007974"
+  },
+  {
+    "path": "data/figure_inputs/ocean/figure4_plotted_values.csv",
+    "bytes": 134687,
+    "sha256": "27ff4d65f003708472ddedc0f51deee41bc09eff74c6981492d6b99f7c671a81"
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure3_candidate_ranking.csv",
+    "bytes": 10850,
+    "sha256": "095c8c31d820f57144a3c12d8da73e745cdadf5c3998b8f9caf89cb296c44f0a"
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure3_regime_metrics_area_weighted.csv.gz",
+    "bytes": 50877,
+    "sha256": "ea4ab8cdff4465e32dd780baae9320284628c3918fd16dc4b8a114d8baed2a14"
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure4_lead_time_metrics_area_weighted_bootstrap5000.csv.gz",
+    "bytes": 55120,
+    "sha256": "f725aa534d58d707c7dd08dcd086d37990f2cb446399d9c433c4da74e9dbf765"
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure7_miz_non_miz_summary.csv",
+    "bytes": 3395,
+    "sha256": "1c112c1da5ee90f1193d55a9499f69195033c4deb86708d4a97951fae51298b2"
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure7_transition_summary.csv",
+    "bytes": 1149,
+    "sha256": "1bb55b8652a84ec82eb4522459f0d6d2012556e29a746223fc1996d2ecc964ff"
+  },
+  {
+    "path": "data/figure_inputs/ocean/tables/figure7_transition_type_summary.csv",
+    "bytes": 8283,
+    "sha256": "bf38842ecfe6906ced3751dc658b49cda4398285d5b3839ed4e0fed3274c4cbf"
+  },
+  {
+    "path": "data/figure_inputs/states/tables/lead_summary.csv",
+    "bytes": 40591,
+    "sha256": "200b9e374b04ed3b781d39558a563f5990937c2474fe6cdb2650c0ad3a5f8b55"
+  },
+  {
+    "path": "data/masks/piomas_ocean_mask_025deg.npz",
+    "bytes": 204109,
+    "sha256": "c73ace27347312eacd21479ecceb6297b4253ee068f199d6b04450a5ae5a11a2"
+  },
+  {
+    "path": "data/provenance/bundled_files.json",
+    "bytes": 2534,
+    "sha256": "a68cf777d024d556cf8e425be4561ecdfbfcc5ca4b17d17e195937e6cd2a7007"
+  },
+  {
+    "path": "data/provenance/checkpoints.json",
+    "bytes": 522,
+    "sha256": "55786da798d63dfbe98f4507dc2ec05f6ada482a38c41426b6e1b94ea3db3377"
+  },
+  {
+    "path": "data/provenance/figure3_case.json",
+    "bytes": 831,
+    "sha256": "87c0a2ce3a3a8908b172579969c1be1a470040ea6a4a52d1aed3b1eabf7f48ea"
+  },
+  {
+    "path": "data/provenance/frozen_archives.json",
+    "bytes": 157923,
+    "sha256": "306514b38705d0ba05cd4a7add7a683e69bff0ad26c9df90924cde8574390548"
+  },
+  {
+    "path": "docs/data.md",
+    "bytes": 4383,
+    "sha256": "70efb1a1c1e9a628af267f4112abbd4623a3f5c4e1f3a7ac0c6b8f214b26c6d6"
+  },
+  {
+    "path": "docs/methods.md",
+    "bytes": 3276,
+    "sha256": "6cafb1df4de5f37febea0c74924a8058fa2e92b59fc5602957a5f29889f49166"
+  },
+  {
+    "path": "docs/reproducibility.md",
+    "bytes": 2625,
+    "sha256": "56544a4b332fa15f7583a0e8e0c1d94393c6dfd3a7d6514568c44c65269c86cb"
+  },
+  {
+    "path": "docs/source_mapping.json",
+    "bytes": 9465,
+    "sha256": "05c9491e21fc9436904541df3caf003aa0cfcb2e519abea3b33b26bdc35517ee"
+  },
+  {
+    "path": "docs/validation.md",
+    "bytes": 2413,
+    "sha256": "11c2407445ab9cfadab09c542b9f0580462513bad6ffc37e299b1e8b2e23228e"
+  },
+  {
+    "path": "environment.yml",
+    "bytes": 251,
+    "sha256": "ec25ca32e815bd7afe462a5e512af3e5dbd73ac88810f41f2ba4f543ed2c5daa"
+  },
+  {
+    "path": "notebooks/train_cnn.ipynb",
+    "bytes": 27074,
+    "sha256": "3da64815c362293183f411b22bb2e26ee2a73cf25eef251bdfb60af16eb538f0"
+  },
+  {
+    "path": "notebooks/train_gnn.ipynb",
+    "bytes": 37055,
+    "sha256": "4364b48bd69436a230cae4782c2a73884e963a2dc3d9c73f8f6e9c1d2625d8c6"
+  },
+  {
+    "path": "notebooks/train_unet.ipynb",
+    "bytes": 28555,
+    "sha256": "e8c28a4fd24e804bdd640da4abf9d58bdb3f6b642ece5681ab3520a7afc48b90"
+  },
+  {
+    "path": "pyproject.toml",
+    "bytes": 819,
+    "sha256": "820209e2eef1962d25727cf5bfddc4f25059d1fd529c739403da171793667e97"
+  },
+  {
+    "path": "README.ko.md",
+    "bytes": 3057,
+    "sha256": "177d2fc935016e22a81d0351c2bbfea093924a8e7e46c0778fd66b59b86e1ea7"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5223,
+    "sha256": "4c2d3e2649bf946c593b2a42ea34c813026673e0d5759cf1689482f7f0129334"
+  },
+  {
+    "path": "requirements-tested.txt",
+    "bytes": 217,
+    "sha256": "4b2c2c56bb6a851d57624cef735192aafe071aef0bda704f1d4d72eb94c96763"
+  },
+  {
+    "path": "src/seaice_diagnostics/__init__.py",
+    "bytes": 91,
+    "sha256": "6b80c4bdb9a2692acfd679193fbe541e6cccd9a2bbc23bec1b5a9edccf1ce1c2"
+  },
+  {
+    "path": "src/seaice_diagnostics/__main__.py",
+    "bytes": 3776,
+    "sha256": "f0190eaac8a2d6eddabe811e24a27d817d2dff955be4bf14e5dcb8f7854275c6"
+  },
+  {
+    "path": "src/seaice_diagnostics/build_mask.py",
+    "bytes": 5330,
+    "sha256": "e1442703e1b4e02f0695251b19dce231a214672e57e9cd5aff1c1759f923f840"
+  },
+  {
+    "path": "src/seaice_diagnostics/config.py",
+    "bytes": 1594,
+    "sha256": "10e383fa7e3a5c853b838eec1ad66cd028868c8a019419d3aec5355a21d57365"
+  },
+  {
+    "path": "src/seaice_diagnostics/diagnostics.py",
+    "bytes": 48638,
+    "sha256": "ef27424c8af48c07f39194b6e8812d5f9b9606c926ab27fac7fa68a59e6f3115"
+  },
+  {
+    "path": "src/seaice_diagnostics/evaluate_conditions.py",
+    "bytes": 12819,
+    "sha256": "33a6ae1d5275ab038c9b1e9f18469d57f2cba7f37bb979b0f89b2ac603c6386f"
+  },
+  {
+    "path": "src/seaice_diagnostics/evaluate_states.py",
+    "bytes": 8442,
+    "sha256": "46f120de7023694e48a5916c9fd7b95e67ac309654b51adae7a8610275d2a3c2"
+  },
+  {
+    "path": "src/seaice_diagnostics/geography.py",
+    "bytes": 1852,
+    "sha256": "85a24049a2794da111ba2ecba137990b5642afd8acb525057348f805efed5d25"
+  },
+  {
+    "path": "src/seaice_diagnostics/inference.py",
+    "bytes": 18836,
+    "sha256": "fcf01c1de58d3a28d418ea8cbf57cb75d1f58b6311cd4d8ad92f7ac57cc9ba3a"
+  },
+  {
+    "path": "src/seaice_diagnostics/mask.py",
+    "bytes": 2653,
+    "sha256": "f5d0ce4c7eb61007aef0e9b1384c655b5bb30c4a4299366e21cb779c9744a542"
+  },
+  {
+    "path": "src/seaice_diagnostics/numerics.py",
+    "bytes": 6935,
+    "sha256": "c2f2ccc920d913d3eb295208eac46c8ac653f1a7a94d7ecf3f0c37411ef2056a"
+  },
+  {
+    "path": "src/seaice_diagnostics/pair_state_support.py",
+    "bytes": 3520,
+    "sha256": "809e656514e69cf6c5e2afcb8883509986fe6c560f9c2a9ff0a1f6e41a7f409c"
+  },
+  {
+    "path": "src/seaice_diagnostics/pipeline.py",
+    "bytes": 5441,
+    "sha256": "9aa6809e5ac4977b6fdc7cd2c08776fed81a67ad0f27a18e51bed701fdb38614"
+  },
+  {
+    "path": "src/seaice_diagnostics/plot_config.py",
+    "bytes": 257,
+    "sha256": "7285632a6a2dceedd46a324bf5dfbd1100c5c4ec3099d3fe644eab841d5aa416"
+  },
+  {
+    "path": "src/seaice_diagnostics/plot_maps.py",
+    "bytes": 15523,
+    "sha256": "27e17a811e26074750d5ada0966709bf83e550cb715187e35b03103e3c96c702"
+  },
+  {
+    "path": "src/seaice_diagnostics/plot_overview.py",
+    "bytes": 9040,
+    "sha256": "8f518eedf16255356c75f6882b56c7fa39b6acd39495cfb535fc80991708f4d9"
+  },
+  {
+    "path": "src/seaice_diagnostics/plot_regional.py",
+    "bytes": 8671,
+    "sha256": "b7ad56fb5b28c1048663ae90d8a3392c267346fcdb30d3b39d7a3853772dfe34"
+  },
+  {
+    "path": "src/seaice_diagnostics/plot_states.py",
+    "bytes": 13899,
+    "sha256": "30f5fbee1cc35f3e7402454490e580cb2c0f75cc298c949cfa2d58c77ba00b58"
+  },
+  {
+    "path": "src/seaice_diagnostics/plot_style.py",
+    "bytes": 1744,
+    "sha256": "55e32e33e81dc3378b0a9104c8b5e0e2d353be38e2aa97788de370d7950b18c4"
+  },
+  {
+    "path": "src/seaice_diagnostics/plot_transitions.py",
+    "bytes": 17516,
+    "sha256": "596668ef694d075dd92edde2662887701534be7b009d4a686437a4dc86d67592"
+  },
+  {
+    "path": "src/seaice_diagnostics/prepare_cache.py",
+    "bytes": 3358,
+    "sha256": "cdd9f822c174bebc9a2ce3588109df7a1dbd91e1758782f776851c2cc15066c5"
+  },
+  {
+    "path": "src/seaice_diagnostics/protocol.py",
+    "bytes": 7441,
+    "sha256": "b32d7d0b51f259c6298de60e1b1282751961a92b9a045ccafb3d2a57bee7c0cd"
+  },
+  {
+    "path": "src/seaice_diagnostics/statistics.py",
+    "bytes": 12339,
+    "sha256": "26dbb6c92cd02d6043ab8913cd1b03a5c95ed8c632aeb006adc358ee13b33a0c"
+  },
+  {
+    "path": "src/seaice_diagnostics/summarize_conditions.py",
+    "bytes": 10687,
+    "sha256": "8c7e0d63ce1448c9526a641c1c45ec8beafdc7e8dd85973f7c6f5eb0bf2a778f"
+  },
+  {
+    "path": "src/seaice_diagnostics/summarize_states.py",
+    "bytes": 13240,
+    "sha256": "b6ceb05ac10ad05337eb8ab3565fd1d9a0a52a036eb072326b29416ecaaf5b3a"
+  },
+  {
+    "path": "tests/test_scientific_contract.py",
+    "bytes": 6424,
+    "sha256": "48f4d7dac437dcb66129f01a4e95391397ec02df55121efefc71ea2e3029a93a"
+  }
+]

@@ -1,0 +1,721 @@
+domain,model,state,lead_day,rmse_mean,n_cases
+combined_nsr,CNN,compact_ice,1,0.029116658432436358,282
+combined_nsr,CNN,compact_ice,2,0.04463575290467342,282
+combined_nsr,CNN,compact_ice,3,0.057518403740760206,282
+combined_nsr,CNN,compact_ice,4,0.06886244481511505,282
+combined_nsr,CNN,compact_ice,5,0.07688642295876022,282
+combined_nsr,CNN,compact_ice,6,0.08445339013509817,282
+combined_nsr,CNN,compact_ice,7,0.0922933559292271,282
+combined_nsr,CNN,compact_ice,8,0.10215655680886052,282
+combined_nsr,CNN,compact_ice,9,0.10999016628535946,282
+combined_nsr,CNN,compact_ice,10,0.1180256029250834,282
+combined_nsr,CNN,compact_ice,11,0.12632593047613527,282
+combined_nsr,CNN,compact_ice,12,0.13866169662497582,282
+combined_nsr,CNN,compact_ice,13,0.1456900987145499,282
+combined_nsr,CNN,compact_ice,14,0.15217261878089525,282
+combined_nsr,CNN,compact_ice,15,0.15750214128235449,282
+combined_nsr,CNN,compact_ice,16,0.16281351027766083,282
+combined_nsr,CNN,compact_ice,17,0.16817963597836869,282
+combined_nsr,CNN,compact_ice,18,0.17167390159801613,282
+combined_nsr,CNN,compact_ice,19,0.17640035888089517,282
+combined_nsr,CNN,compact_ice,20,0.1822173887767243,282
+combined_nsr,CNN,compact_ice,21,0.18797185390530446,282
+combined_nsr,CNN,compact_ice,22,0.1955126811715869,282
+combined_nsr,CNN,compact_ice,23,0.20222934303597595,282
+combined_nsr,CNN,compact_ice,24,0.208058451820775,282
+combined_nsr,CNN,compact_ice,25,0.21274859061861084,282
+combined_nsr,CNN,compact_ice,26,0.21941010786950588,282
+combined_nsr,CNN,compact_ice,27,0.22579901324518317,282
+combined_nsr,CNN,compact_ice,28,0.23381390727465473,282
+combined_nsr,CNN,compact_ice,29,0.24038289757988301,282
+combined_nsr,CNN,compact_ice,30,0.24850537608201,282
+combined_nsr,CNN,miz,1,0.037219172432502855,282
+combined_nsr,CNN,miz,2,0.05742052063549679,282
+combined_nsr,CNN,miz,3,0.07276859602326792,282
+combined_nsr,CNN,miz,4,0.08542323811606112,282
+combined_nsr,CNN,miz,5,0.09587331107227316,282
+combined_nsr,CNN,miz,6,0.10467936144952167,282
+combined_nsr,CNN,miz,7,0.11299354082122864,282
+combined_nsr,CNN,miz,8,0.12092675277292018,282
+combined_nsr,CNN,miz,9,0.12783936027826526,282
+combined_nsr,CNN,miz,10,0.1342059846578352,282
+combined_nsr,CNN,miz,11,0.14027839314168808,282
+combined_nsr,CNN,miz,12,0.14670877246912373,282
+combined_nsr,CNN,miz,13,0.15098994599328536,282
+combined_nsr,CNN,miz,14,0.15518553019764175,282
+combined_nsr,CNN,miz,15,0.1595578113575307,282
+combined_nsr,CNN,miz,16,0.16403399843133665,282
+combined_nsr,CNN,miz,17,0.16860456498814844,282
+combined_nsr,CNN,miz,18,0.17323121789218798,282
+combined_nsr,CNN,miz,19,0.17822908804802573,282
+combined_nsr,CNN,miz,20,0.18360451824572402,282
+combined_nsr,CNN,miz,21,0.18832313076026413,282
+combined_nsr,CNN,miz,22,0.19306505168512805,282
+combined_nsr,CNN,miz,23,0.1977724677695379,282
+combined_nsr,CNN,miz,24,0.20221720483110567,282
+combined_nsr,CNN,miz,25,0.2071097786796333,282
+combined_nsr,CNN,miz,26,0.21302971826893274,282
+combined_nsr,CNN,miz,27,0.21866282543578236,282
+combined_nsr,CNN,miz,28,0.2240007377692511,282
+combined_nsr,CNN,miz,29,0.22927648408135412,282
+combined_nsr,CNN,miz,30,0.23475749864850354,282
+combined_nsr,CNN,open_water,1,0.013827877563370793,282
+combined_nsr,CNN,open_water,2,0.01965040641044617,282
+combined_nsr,CNN,open_water,3,0.024526740112924883,282
+combined_nsr,CNN,open_water,4,0.029188292231840468,282
+combined_nsr,CNN,open_water,5,0.03382036881857609,282
+combined_nsr,CNN,open_water,6,0.03846005373044524,282
+combined_nsr,CNN,open_water,7,0.04226039461337089,282
+combined_nsr,CNN,open_water,8,0.04558996129544458,282
+combined_nsr,CNN,open_water,9,0.048822620289162,282
+combined_nsr,CNN,open_water,10,0.051625321684426594,282
+combined_nsr,CNN,open_water,11,0.05375084781796,282
+combined_nsr,CNN,open_water,12,0.05453080911081629,282
+combined_nsr,CNN,open_water,13,0.05699715755221343,282
+combined_nsr,CNN,open_water,14,0.059128223907750646,282
+combined_nsr,CNN,open_water,15,0.06098775345147993,282
+combined_nsr,CNN,open_water,16,0.0626495109987783,282
+combined_nsr,CNN,open_water,17,0.06422025706846458,282
+combined_nsr,CNN,open_water,18,0.06583102075347098,282
+combined_nsr,CNN,open_water,19,0.06707709858392016,282
+combined_nsr,CNN,open_water,20,0.06796286667870001,282
+combined_nsr,CNN,open_water,21,0.0691771358218472,282
+combined_nsr,CNN,open_water,22,0.07022670627253219,282
+combined_nsr,CNN,open_water,23,0.07110159077015016,282
+combined_nsr,CNN,open_water,24,0.0719689413396407,282
+combined_nsr,CNN,open_water,25,0.07258621223325436,282
+combined_nsr,CNN,open_water,26,0.0724920334290209,282
+combined_nsr,CNN,open_water,27,0.0725582617012903,282
+combined_nsr,CNN,open_water,28,0.0727948916482152,282
+combined_nsr,CNN,open_water,29,0.07309834486248558,282
+combined_nsr,CNN,open_water,30,0.07344734872031433,282
+combined_nsr,GNN,compact_ice,1,0.028525195398089818,282
+combined_nsr,GNN,compact_ice,2,0.04513104354467117,282
+combined_nsr,GNN,compact_ice,3,0.05774204769354291,282
+combined_nsr,GNN,compact_ice,4,0.06771430065812542,282
+combined_nsr,GNN,compact_ice,5,0.07441463345031736,282
+combined_nsr,GNN,compact_ice,6,0.08065318436478061,282
+combined_nsr,GNN,compact_ice,7,0.0861967191432765,282
+combined_nsr,GNN,compact_ice,8,0.09525095095248257,282
+combined_nsr,GNN,compact_ice,9,0.10102793041666978,282
+combined_nsr,GNN,compact_ice,10,0.10897370460188127,282
+combined_nsr,GNN,compact_ice,11,0.11709137517279586,282
+combined_nsr,GNN,compact_ice,12,0.12549659525756665,282
+combined_nsr,GNN,compact_ice,13,0.13198755993083128,282
+combined_nsr,GNN,compact_ice,14,0.1393725362306944,282
+combined_nsr,GNN,compact_ice,15,0.14564351590965208,282
+combined_nsr,GNN,compact_ice,16,0.1524444856996621,282
+combined_nsr,GNN,compact_ice,17,0.16026314675661402,282
+combined_nsr,GNN,compact_ice,18,0.1675105399398406,282
+combined_nsr,GNN,compact_ice,19,0.17422831517210277,282
+combined_nsr,GNN,compact_ice,20,0.18175414390242658,282
+combined_nsr,GNN,compact_ice,21,0.18864198204365176,282
+combined_nsr,GNN,compact_ice,22,0.20043153305255856,282
+combined_nsr,GNN,compact_ice,23,0.20855457864281926,282
+combined_nsr,GNN,compact_ice,24,0.21716843643381364,282
+combined_nsr,GNN,compact_ice,25,0.22395864487256475,282
+combined_nsr,GNN,compact_ice,26,0.2338192587233134,282
+combined_nsr,GNN,compact_ice,27,0.24047009995432797,282
+combined_nsr,GNN,compact_ice,28,0.24992267201423998,282
+combined_nsr,GNN,compact_ice,29,0.25823397433416945,282
+combined_nsr,GNN,compact_ice,30,0.2667756007087298,282
+combined_nsr,GNN,miz,1,0.038700168442666195,282
+combined_nsr,GNN,miz,2,0.059406920530984696,282
+combined_nsr,GNN,miz,3,0.07543837935761297,282
+combined_nsr,GNN,miz,4,0.08957891239741082,282
+combined_nsr,GNN,miz,5,0.1009110205996554,282
+combined_nsr,GNN,miz,6,0.11158583329347206,282
+combined_nsr,GNN,miz,7,0.12105430545358704,282
+combined_nsr,GNN,miz,8,0.12877012527908985,282
+combined_nsr,GNN,miz,9,0.13719660276056353,282
+combined_nsr,GNN,miz,10,0.1452058301441725,282
+combined_nsr,GNN,miz,11,0.15197374542564585,282
+combined_nsr,GNN,miz,12,0.15914837705421533,282
+combined_nsr,GNN,miz,13,0.1660395104067374,282
+combined_nsr,GNN,miz,14,0.17150206662148768,282
+combined_nsr,GNN,miz,15,0.17726883312269762,282
+combined_nsr,GNN,miz,16,0.18347398835771753,282
+combined_nsr,GNN,miz,17,0.1892190150246609,282
+combined_nsr,GNN,miz,18,0.19478689412653377,282
+combined_nsr,GNN,miz,19,0.20061856771837677,282
+combined_nsr,GNN,miz,20,0.20552877179754975,282
+combined_nsr,GNN,miz,21,0.21007533051369884,282
+combined_nsr,GNN,miz,22,0.213596533961502,282
+combined_nsr,GNN,miz,23,0.21814996026449615,282
+combined_nsr,GNN,miz,24,0.22347646378988417,282
+combined_nsr,GNN,miz,25,0.2292540734667131,282
+combined_nsr,GNN,miz,26,0.23375343061387874,282
+combined_nsr,GNN,miz,27,0.2391241626855459,282
+combined_nsr,GNN,miz,28,0.24333265392207387,282
+combined_nsr,GNN,miz,29,0.24746946444438975,282
+combined_nsr,GNN,miz,30,0.2518373572463357,282
+combined_nsr,GNN,open_water,1,0.017477284938603902,282
+combined_nsr,GNN,open_water,2,0.02783524108085511,282
+combined_nsr,GNN,open_water,3,0.037790282806999566,282
+combined_nsr,GNN,open_water,4,0.04708853035455861,282
+combined_nsr,GNN,open_water,5,0.0566956402118035,282
+combined_nsr,GNN,open_water,6,0.06535628073808392,282
+combined_nsr,GNN,open_water,7,0.07445059393896217,282
+combined_nsr,GNN,open_water,8,0.08212994104120303,282
+combined_nsr,GNN,open_water,9,0.08894000786726707,282
+combined_nsr,GNN,open_water,10,0.09477803273265896,282
+combined_nsr,GNN,open_water,11,0.10007837759700337,282
+combined_nsr,GNN,open_water,12,0.10599560375817452,282
+combined_nsr,GNN,open_water,13,0.11080944541741036,282
+combined_nsr,GNN,open_water,14,0.11776761754869376,282
+combined_nsr,GNN,open_water,15,0.12293841520486334,282
+combined_nsr,GNN,open_water,16,0.12653624591094648,282
+combined_nsr,GNN,open_water,17,0.1313907448179908,282
+combined_nsr,GNN,open_water,18,0.13451813713184946,282
+combined_nsr,GNN,open_water,19,0.13767538425894124,282
+combined_nsr,GNN,open_water,20,0.1408230684014291,282
+combined_nsr,GNN,open_water,21,0.14513313928535268,282
+combined_nsr,GNN,open_water,22,0.14668694471317895,282
+combined_nsr,GNN,open_water,23,0.14957694976512473,282
+combined_nsr,GNN,open_water,24,0.15213540403038536,282
+combined_nsr,GNN,open_water,25,0.15399998301070816,282
+combined_nsr,GNN,open_water,26,0.15480757016039562,282
+combined_nsr,GNN,open_water,27,0.15848431389318776,282
+combined_nsr,GNN,open_water,28,0.16155994412730892,282
+combined_nsr,GNN,open_water,29,0.16403825121362559,282
+combined_nsr,GNN,open_water,30,0.1657693211702529,282
+combined_nsr,Three-model mean,compact_ice,1,0.029016763385006274,282
+combined_nsr,Three-model mean,compact_ice,2,0.04542131073766601,282
+combined_nsr,Three-model mean,compact_ice,3,0.058221865032314586,282
+combined_nsr,Three-model mean,compact_ice,4,0.06909957644178549,282
+combined_nsr,Three-model mean,compact_ice,5,0.07691463278262252,282
+combined_nsr,Three-model mean,compact_ice,6,0.08475753827227235,282
+combined_nsr,Three-model mean,compact_ice,7,0.09182725557506048,282
+combined_nsr,Three-model mean,compact_ice,8,0.10177376492989607,282
+combined_nsr,Three-model mean,compact_ice,9,0.1096287143370532,282
+combined_nsr,Three-model mean,compact_ice,10,0.11908230122444838,282
+combined_nsr,Three-model mean,compact_ice,11,0.12659048769529632,282
+combined_nsr,Three-model mean,compact_ice,12,0.13667456646600906,282
+combined_nsr,Three-model mean,compact_ice,13,0.14387008701654236,282
+combined_nsr,Three-model mean,compact_ice,14,0.15099910167378786,282
+combined_nsr,Three-model mean,compact_ice,15,0.1569888057316986,282
+combined_nsr,Three-model mean,compact_ice,16,0.1629464688387225,282
+combined_nsr,Three-model mean,compact_ice,17,0.16910806137138368,282
+combined_nsr,Three-model mean,compact_ice,18,0.17446042914036142,282
+combined_nsr,Three-model mean,compact_ice,19,0.18030352093847601,282
+combined_nsr,Three-model mean,compact_ice,20,0.18579460193653607,282
+combined_nsr,Three-model mean,compact_ice,21,0.19245269450682204,282
+combined_nsr,Three-model mean,compact_ice,22,0.200930205950737,282
+combined_nsr,Three-model mean,compact_ice,23,0.20792000305498298,282
+combined_nsr,Three-model mean,compact_ice,24,0.21457103646857528,282
+combined_nsr,Three-model mean,compact_ice,25,0.22039718674675138,282
+combined_nsr,Three-model mean,compact_ice,26,0.22751950729790277,282
+combined_nsr,Three-model mean,compact_ice,27,0.2339495854809572,282
+combined_nsr,Three-model mean,compact_ice,28,0.24135848932520287,282
+combined_nsr,Three-model mean,compact_ice,29,0.24785889670434808,282
+combined_nsr,Three-model mean,compact_ice,30,0.2548296056028436,282
+combined_nsr,Three-model mean,miz,1,0.03804775597709658,282
+combined_nsr,Three-model mean,miz,2,0.05884431063133557,282
+combined_nsr,Three-model mean,miz,3,0.07463619453465424,282
+combined_nsr,Three-model mean,miz,4,0.0879051916227808,282
+combined_nsr,Three-model mean,miz,5,0.09885338223395351,282
+combined_nsr,Three-model mean,miz,6,0.10865801160168925,282
+combined_nsr,Three-model mean,miz,7,0.11740090820198802,282
+combined_nsr,Three-model mean,miz,8,0.12535046952513648,282
+combined_nsr,Three-model mean,miz,9,0.1330095950031967,282
+combined_nsr,Three-model mean,miz,10,0.14039120688171114,282
+combined_nsr,Three-model mean,miz,11,0.1465263946450353,282
+combined_nsr,Three-model mean,miz,12,0.1531433136520299,282
+combined_nsr,Three-model mean,miz,13,0.15854666442879561,282
+combined_nsr,Three-model mean,miz,14,0.16338046368045853,282
+combined_nsr,Three-model mean,miz,15,0.16855598869082758,282
+combined_nsr,Three-model mean,miz,16,0.17376358435742711,282
+combined_nsr,Three-model mean,miz,17,0.17859017914298528,282
+combined_nsr,Three-model mean,miz,18,0.18388501601191373,282
+combined_nsr,Three-model mean,miz,19,0.18879725247465856,282
+combined_nsr,Three-model mean,miz,20,0.19330136544563273,282
+combined_nsr,Three-model mean,miz,21,0.19779038199580073,282
+combined_nsr,Three-model mean,miz,22,0.2016490818274899,282
+combined_nsr,Three-model mean,miz,23,0.20587898705005228,282
+combined_nsr,Three-model mean,miz,24,0.20996478674921742,282
+combined_nsr,Three-model mean,miz,25,0.21461692212440198,282
+combined_nsr,Three-model mean,miz,26,0.21934883969826457,282
+combined_nsr,Three-model mean,miz,27,0.22412087681883874,282
+combined_nsr,Three-model mean,miz,28,0.22868612056479698,282
+combined_nsr,Three-model mean,miz,29,0.23265537939233796,282
+combined_nsr,Three-model mean,miz,30,0.2368960577473085,282
+combined_nsr,Three-model mean,open_water,1,0.01504710965939624,282
+combined_nsr,Three-model mean,open_water,2,0.022424405045920578,282
+combined_nsr,Three-model mean,open_water,3,0.02905639828194288,282
+combined_nsr,Three-model mean,open_water,4,0.03525187873679436,282
+combined_nsr,Three-model mean,open_water,5,0.04140847118786324,282
+combined_nsr,Three-model mean,open_water,6,0.04704265168378864,282
+combined_nsr,Three-model mean,open_water,7,0.052581409017762544,282
+combined_nsr,Three-model mean,open_water,8,0.05703100107214389,282
+combined_nsr,Three-model mean,open_water,9,0.060908814397416085,282
+combined_nsr,Three-model mean,open_water,10,0.0640429342778804,282
+combined_nsr,Three-model mean,open_water,11,0.06723421256517233,282
+combined_nsr,Three-model mean,open_water,12,0.06982518992877003,282
+combined_nsr,Three-model mean,open_water,13,0.07283233815897334,282
+combined_nsr,Three-model mean,open_water,14,0.07631458315322306,282
+combined_nsr,Three-model mean,open_water,15,0.0790052798966381,282
+combined_nsr,Three-model mean,open_water,16,0.0811657619010882,282
+combined_nsr,Three-model mean,open_water,17,0.08395127183143698,282
+combined_nsr,Three-model mean,open_water,18,0.0857559549888383,282
+combined_nsr,Three-model mean,open_water,19,0.08779289422858384,282
+combined_nsr,Three-model mean,open_water,20,0.09002996879305974,282
+combined_nsr,Three-model mean,open_water,21,0.0920659577347804,282
+combined_nsr,Three-model mean,open_water,22,0.09349542440645783,282
+combined_nsr,Three-model mean,open_water,23,0.0953104946941826,282
+combined_nsr,Three-model mean,open_water,24,0.0971034116786075,282
+combined_nsr,Three-model mean,open_water,25,0.09827940710712631,282
+combined_nsr,Three-model mean,open_water,26,0.09874219167450225,282
+combined_nsr,Three-model mean,open_water,27,0.1003783803001724,282
+combined_nsr,Three-model mean,open_water,28,0.1017498567046061,282
+combined_nsr,Three-model mean,open_water,29,0.1031085281730076,282
+combined_nsr,Three-model mean,open_water,30,0.10412377789593255,282
+combined_nsr,U-Net,compact_ice,1,0.029408436324492665,282
+combined_nsr,U-Net,compact_ice,2,0.04649713576365342,282
+combined_nsr,U-Net,compact_ice,3,0.05940514366264067,282
+combined_nsr,U-Net,compact_ice,4,0.07072198385211603,282
+combined_nsr,U-Net,compact_ice,5,0.07944284193879,282
+combined_nsr,U-Net,compact_ice,6,0.08916604031693827,282
+combined_nsr,U-Net,compact_ice,7,0.09699169165267783,282
+combined_nsr,U-Net,compact_ice,8,0.1079137870283451,282
+combined_nsr,U-Net,compact_ice,9,0.11786804630913036,282
+combined_nsr,U-Net,compact_ice,10,0.13024759614638043,282
+combined_nsr,U-Net,compact_ice,11,0.13635415743695783,282
+combined_nsr,U-Net,compact_ice,12,0.14586540751548477,282
+combined_nsr,U-Net,compact_ice,13,0.1539326024042459,282
+combined_nsr,U-Net,compact_ice,14,0.16145215000977392,282
+combined_nsr,U-Net,compact_ice,15,0.1678207600030892,282
+combined_nsr,U-Net,compact_ice,16,0.17358141053884457,282
+combined_nsr,U-Net,compact_ice,17,0.17888140137916836,282
+combined_nsr,U-Net,compact_ice,18,0.18419684588322754,282
+combined_nsr,U-Net,compact_ice,19,0.19028188876243013,282
+combined_nsr,U-Net,compact_ice,20,0.19341227313045734,282
+combined_nsr,U-Net,compact_ice,21,0.20074424757150988,282
+combined_nsr,U-Net,compact_ice,22,0.20684640362806553,282
+combined_nsr,U-Net,compact_ice,23,0.21297608748615368,282
+combined_nsr,U-Net,compact_ice,24,0.21848622115113722,282
+combined_nsr,U-Net,compact_ice,25,0.22448432474907848,282
+combined_nsr,U-Net,compact_ice,26,0.22932915530088893,282
+combined_nsr,U-Net,compact_ice,27,0.23557964324336045,282
+combined_nsr,U-Net,compact_ice,28,0.24033888868671396,282
+combined_nsr,U-Net,compact_ice,29,0.24495981819899176,282
+combined_nsr,U-Net,compact_ice,30,0.24920784001779106,282
+combined_nsr,U-Net,miz,1,0.03822392705612068,282
+combined_nsr,U-Net,miz,2,0.059705490727525234,282
+combined_nsr,U-Net,miz,3,0.07570160822308185,282
+combined_nsr,U-Net,miz,4,0.08871342435487051,282
+combined_nsr,U-Net,miz,5,0.09977581502993199,282
+combined_nsr,U-Net,miz,6,0.109708840062074,282
+combined_nsr,U-Net,miz,7,0.1181548783311484,282
+combined_nsr,U-Net,miz,8,0.12635453052339943,282
+combined_nsr,U-Net,miz,9,0.1339928219707613,282
+combined_nsr,U-Net,miz,10,0.1417618058431257,282
+combined_nsr,U-Net,miz,11,0.14732704536777197,282
+combined_nsr,U-Net,miz,12,0.1535727914327507,282
+combined_nsr,U-Net,miz,13,0.15861053688636415,282
+combined_nsr,U-Net,miz,14,0.16345379422224618,282
+combined_nsr,U-Net,miz,15,0.16884132159225448,282
+combined_nsr,U-Net,miz,16,0.17378276628322714,282
+combined_nsr,U-Net,miz,17,0.1779469574161465,282
+combined_nsr,U-Net,miz,18,0.18363693601701944,282
+combined_nsr,U-Net,miz,19,0.18754410165757324,282
+combined_nsr,U-Net,miz,20,0.19077080629362442,282
+combined_nsr,U-Net,miz,21,0.19497268471343923,282
+combined_nsr,U-Net,miz,22,0.19828565983583968,282
+combined_nsr,U-Net,miz,23,0.2017145331161228,282
+combined_nsr,U-Net,miz,24,0.20420069162666246,282
+combined_nsr,U-Net,miz,25,0.20748691422685953,282
+combined_nsr,U-Net,miz,26,0.21126337021198227,282
+combined_nsr,U-Net,miz,27,0.21457564233518797,282
+combined_nsr,U-Net,miz,28,0.2187249700030659,282
+combined_nsr,U-Net,miz,29,0.22122018965127,282
+combined_nsr,U-Net,miz,30,0.22409331734708623,282
+combined_nsr,U-Net,open_water,1,0.013836166476214027,282
+combined_nsr,U-Net,open_water,2,0.019787567646460454,282
+combined_nsr,U-Net,open_water,3,0.024852171925904186,282
+combined_nsr,U-Net,open_water,4,0.029478813623984006,282
+combined_nsr,U-Net,open_water,5,0.033709404533210134,282
+combined_nsr,U-Net,open_water,6,0.037311620582836755,282
+combined_nsr,U-Net,open_water,7,0.04103323850095458,282
+combined_nsr,U-Net,open_water,8,0.04337310087978407,282
+combined_nsr,U-Net,open_water,9,0.04496381503581919,282
+combined_nsr,U-Net,open_water,10,0.04572544841655563,282
+combined_nsr,U-Net,open_water,11,0.0478734122805536,282
+combined_nsr,U-Net,open_water,12,0.04894915691731931,282
+combined_nsr,U-Net,open_water,13,0.050690411507296244,282
+combined_nsr,U-Net,open_water,14,0.05204790800322478,282
+combined_nsr,U-Net,open_water,15,0.05308967103357105,282
+combined_nsr,U-Net,open_water,16,0.05431152879353978,282
+combined_nsr,U-Net,open_water,17,0.05624281360785559,282
+combined_nsr,U-Net,open_water,18,0.05691870708119441,282
+combined_nsr,U-Net,open_water,19,0.05862619984289015,282
+combined_nsr,U-Net,open_water,20,0.061303971299050124,282
+combined_nsr,U-Net,open_water,21,0.061887598097141304,282
+combined_nsr,U-Net,open_water,22,0.06357262223366236,282
+combined_nsr,U-Net,open_water,23,0.06525294354727289,282
+combined_nsr,U-Net,open_water,24,0.06720588966579648,282
+combined_nsr,U-Net,open_water,25,0.06825202607741641,282
+combined_nsr,U-Net,open_water,26,0.06892697143409023,282
+combined_nsr,U-Net,open_water,27,0.07009256530603913,282
+combined_nsr,U-Net,open_water,28,0.07089473433829414,282
+combined_nsr,U-Net,open_water,29,0.07218898844291166,282
+combined_nsr,U-Net,open_water,30,0.07315466379723043,282
+pan_arctic,CNN,compact_ice,1,0.03080638325644973,282
+pan_arctic,CNN,compact_ice,2,0.04374626454234757,282
+pan_arctic,CNN,compact_ice,3,0.05225944806274308,282
+pan_arctic,CNN,compact_ice,4,0.0581568964623704,282
+pan_arctic,CNN,compact_ice,5,0.0624257774201416,282
+pan_arctic,CNN,compact_ice,6,0.06589041743186758,282
+pan_arctic,CNN,compact_ice,7,0.06964935052995964,282
+pan_arctic,CNN,compact_ice,8,0.07363888716164425,282
+pan_arctic,CNN,compact_ice,9,0.0767934825136876,282
+pan_arctic,CNN,compact_ice,10,0.0796440367647916,282
+pan_arctic,CNN,compact_ice,11,0.08260107270699087,282
+pan_arctic,CNN,compact_ice,12,0.08802170221823725,282
+pan_arctic,CNN,compact_ice,13,0.09031060303321783,282
+pan_arctic,CNN,compact_ice,14,0.09293946822036082,282
+pan_arctic,CNN,compact_ice,15,0.09578369379665512,282
+pan_arctic,CNN,compact_ice,16,0.09888017477328781,282
+pan_arctic,CNN,compact_ice,17,0.10161670669399601,282
+pan_arctic,CNN,compact_ice,18,0.10409817543951559,282
+pan_arctic,CNN,compact_ice,19,0.10726792968607163,282
+pan_arctic,CNN,compact_ice,20,0.110994697658366,282
+pan_arctic,CNN,compact_ice,21,0.11483676069530484,282
+pan_arctic,CNN,compact_ice,22,0.11906845558344237,282
+pan_arctic,CNN,compact_ice,23,0.12316221956832009,282
+pan_arctic,CNN,compact_ice,24,0.12736801527573297,282
+pan_arctic,CNN,compact_ice,25,0.13112592066987797,282
+pan_arctic,CNN,compact_ice,26,0.13519462598110288,282
+pan_arctic,CNN,compact_ice,27,0.13885353775403134,282
+pan_arctic,CNN,compact_ice,28,0.14229830931823348,282
+pan_arctic,CNN,compact_ice,29,0.1460898996382374,282
+pan_arctic,CNN,compact_ice,30,0.14986943168209255,282
+pan_arctic,CNN,miz,1,0.0387119349775496,282
+pan_arctic,CNN,miz,2,0.05728591691329549,282
+pan_arctic,CNN,miz,3,0.07068951305116175,282
+pan_arctic,CNN,miz,4,0.0813627019604753,282
+pan_arctic,CNN,miz,5,0.09018035748434212,282
+pan_arctic,CNN,miz,6,0.09775469784710057,282
+pan_arctic,CNN,miz,7,0.10469058610501485,282
+pan_arctic,CNN,miz,8,0.11116799697708174,282
+pan_arctic,CNN,miz,9,0.11715389540340469,282
+pan_arctic,CNN,miz,10,0.12277449122538084,282
+pan_arctic,CNN,miz,11,0.12811842034843904,282
+pan_arctic,CNN,miz,12,0.13304336065891903,282
+pan_arctic,CNN,miz,13,0.1372700789101721,282
+pan_arctic,CNN,miz,14,0.14129670950687978,282
+pan_arctic,CNN,miz,15,0.14532843583632069,282
+pan_arctic,CNN,miz,16,0.14933083985978587,282
+pan_arctic,CNN,miz,17,0.15335680228113105,282
+pan_arctic,CNN,miz,18,0.1573008972916309,282
+pan_arctic,CNN,miz,19,0.16124312243209865,282
+pan_arctic,CNN,miz,20,0.1654674376474427,282
+pan_arctic,CNN,miz,21,0.16924708363329066,282
+pan_arctic,CNN,miz,22,0.17323707618768266,282
+pan_arctic,CNN,miz,23,0.17731095345316028,282
+pan_arctic,CNN,miz,24,0.18137758310619417,282
+pan_arctic,CNN,miz,25,0.1858302095252626,282
+pan_arctic,CNN,miz,26,0.1908117307029585,282
+pan_arctic,CNN,miz,27,0.19557347191448887,282
+pan_arctic,CNN,miz,28,0.20009382551552557,282
+pan_arctic,CNN,miz,29,0.2044540391061033,282
+pan_arctic,CNN,miz,30,0.20892040092068787,282
+pan_arctic,CNN,open_water,1,0.01406588633720165,282
+pan_arctic,CNN,open_water,2,0.01939837131969206,282
+pan_arctic,CNN,open_water,3,0.023716904775668783,282
+pan_arctic,CNN,open_water,4,0.027777307809108278,282
+pan_arctic,CNN,open_water,5,0.03178586804964284,282
+pan_arctic,CNN,open_water,6,0.035837898964251616,282
+pan_arctic,CNN,open_water,7,0.03921454918207443,282
+pan_arctic,CNN,open_water,8,0.04222733602230559,282
+pan_arctic,CNN,open_water,9,0.04525995928493394,282
+pan_arctic,CNN,open_water,10,0.04797487806586379,282
+pan_arctic,CNN,open_water,11,0.05020196681007162,282
+pan_arctic,CNN,open_water,12,0.05122733087971229,282
+pan_arctic,CNN,open_water,13,0.053760765291774336,282
+pan_arctic,CNN,open_water,14,0.05607856603492013,282
+pan_arctic,CNN,open_water,15,0.058170124184772,282
+pan_arctic,CNN,open_water,16,0.06007741308534845,282
+pan_arctic,CNN,open_water,17,0.06188674743779952,282
+pan_arctic,CNN,open_water,18,0.06367753772434437,282
+pan_arctic,CNN,open_water,19,0.06521306177927468,282
+pan_arctic,CNN,open_water,20,0.06645141606248425,282
+pan_arctic,CNN,open_water,21,0.06800600122089585,282
+pan_arctic,CNN,open_water,22,0.06936933779598004,282
+pan_arctic,CNN,open_water,23,0.07053570771316459,282
+pan_arctic,CNN,open_water,24,0.07170977025491304,282
+pan_arctic,CNN,open_water,25,0.07261405927433053,282
+pan_arctic,CNN,open_water,26,0.07285509227732984,282
+pan_arctic,CNN,open_water,27,0.07330969308019061,282
+pan_arctic,CNN,open_water,28,0.07393868987092442,282
+pan_arctic,CNN,open_water,29,0.07467559643633061,282
+pan_arctic,CNN,open_water,30,0.07529615529222157,282
+pan_arctic,GNN,compact_ice,1,0.03141583323250691,282
+pan_arctic,GNN,compact_ice,2,0.04699051376788577,282
+pan_arctic,GNN,compact_ice,3,0.0577210181814808,282
+pan_arctic,GNN,compact_ice,4,0.06490454869727481,282
+pan_arctic,GNN,compact_ice,5,0.07025040376249769,282
+pan_arctic,GNN,compact_ice,6,0.07544269220237233,282
+pan_arctic,GNN,compact_ice,7,0.08043389536415264,282
+pan_arctic,GNN,compact_ice,8,0.08747893085562516,282
+pan_arctic,GNN,compact_ice,9,0.09211530821015758,282
+pan_arctic,GNN,compact_ice,10,0.09783985791736041,282
+pan_arctic,GNN,compact_ice,11,0.104567784880829,282
+pan_arctic,GNN,compact_ice,12,0.10961009944828325,282
+pan_arctic,GNN,compact_ice,13,0.1144024233081411,282
+pan_arctic,GNN,compact_ice,14,0.12020393821117303,282
+pan_arctic,GNN,compact_ice,15,0.12628238240486872,282
+pan_arctic,GNN,compact_ice,16,0.13252553127982464,282
+pan_arctic,GNN,compact_ice,17,0.13855323228533845,282
+pan_arctic,GNN,compact_ice,18,0.14541245609680412,282
+pan_arctic,GNN,compact_ice,19,0.15163489671579825,282
+pan_arctic,GNN,compact_ice,20,0.15863915396309594,282
+pan_arctic,GNN,compact_ice,21,0.16489350232598077,282
+pan_arctic,GNN,compact_ice,22,0.17441732977711355,282
+pan_arctic,GNN,compact_ice,23,0.18093643160991227,282
+pan_arctic,GNN,compact_ice,24,0.18603006815685968,282
+pan_arctic,GNN,compact_ice,25,0.19168772571147666,282
+pan_arctic,GNN,compact_ice,26,0.20055781067614914,282
+pan_arctic,GNN,compact_ice,27,0.2040388536579406,282
+pan_arctic,GNN,compact_ice,28,0.2096279366254762,282
+pan_arctic,GNN,compact_ice,29,0.21535208777352124,282
+pan_arctic,GNN,compact_ice,30,0.222049438426112,282
+pan_arctic,GNN,miz,1,0.04002835110055443,282
+pan_arctic,GNN,miz,2,0.05950245259087004,282
+pan_arctic,GNN,miz,3,0.07409407128886969,282
+pan_arctic,GNN,miz,4,0.08655367723112585,282
+pan_arctic,GNN,miz,5,0.09667694421337089,282
+pan_arctic,GNN,miz,6,0.1062160270917813,282
+pan_arctic,GNN,miz,7,0.11484347219279006,282
+pan_arctic,GNN,miz,8,0.12183605122485625,282
+pan_arctic,GNN,miz,9,0.12943101023758058,282
+pan_arctic,GNN,miz,10,0.13654905792816258,282
+pan_arctic,GNN,miz,11,0.14255221951893474,282
+pan_arctic,GNN,miz,12,0.14900078175622916,282
+pan_arctic,GNN,miz,13,0.15517644474043252,282
+pan_arctic,GNN,miz,14,0.15978165308307718,282
+pan_arctic,GNN,miz,15,0.16479489377694562,282
+pan_arctic,GNN,miz,16,0.17020964027935595,282
+pan_arctic,GNN,miz,17,0.1751533619234977,282
+pan_arctic,GNN,miz,18,0.17994897063150445,282
+pan_arctic,GNN,miz,19,0.18485698217652413,282
+pan_arctic,GNN,miz,20,0.18881538555750518,282
+pan_arctic,GNN,miz,21,0.1924526553427186,282
+pan_arctic,GNN,miz,22,0.19552612063682134,282
+pan_arctic,GNN,miz,23,0.19953179787368522,282
+pan_arctic,GNN,miz,24,0.2044627065245757,282
+pan_arctic,GNN,miz,25,0.20962927201967685,282
+pan_arctic,GNN,miz,26,0.21372498694073488,282
+pan_arctic,GNN,miz,27,0.21842228176714534,282
+pan_arctic,GNN,miz,28,0.22202466466076115,282
+pan_arctic,GNN,miz,29,0.2254860812276686,282
+pan_arctic,GNN,miz,30,0.2289854190274504,282
+pan_arctic,GNN,open_water,1,0.017471622069511434,282
+pan_arctic,GNN,open_water,2,0.027053649109432403,282
+pan_arctic,GNN,open_water,3,0.03615677616955712,282
+pan_arctic,GNN,open_water,4,0.04458650439462223,282
+pan_arctic,GNN,open_water,5,0.053342802778712096,282
+pan_arctic,GNN,open_water,6,0.06126733235612784,282
+pan_arctic,GNN,open_water,7,0.06963518339461194,282
+pan_arctic,GNN,open_water,8,0.07675816977151495,282
+pan_arctic,GNN,open_water,9,0.08306219974531408,282
+pan_arctic,GNN,open_water,10,0.08832187037979083,282
+pan_arctic,GNN,open_water,11,0.09339985674325096,282
+pan_arctic,GNN,open_water,12,0.09922572508534623,282
+pan_arctic,GNN,open_water,13,0.10386460302179591,282
+pan_arctic,GNN,open_water,14,0.11033355456612624,282
+pan_arctic,GNN,open_water,15,0.11539630166010172,282
+pan_arctic,GNN,open_water,16,0.118781273350267,282
+pan_arctic,GNN,open_water,17,0.12365496149600344,282
+pan_arctic,GNN,open_water,18,0.12690358450534575,282
+pan_arctic,GNN,open_water,19,0.13014735306610664,282
+pan_arctic,GNN,open_water,20,0.13332740853545183,282
+pan_arctic,GNN,open_water,21,0.13763838042768195,282
+pan_arctic,GNN,open_water,22,0.13938311062559572,282
+pan_arctic,GNN,open_water,23,0.14245228889360476,282
+pan_arctic,GNN,open_water,24,0.1451244213227723,282
+pan_arctic,GNN,open_water,25,0.14726171774072724,282
+pan_arctic,GNN,open_water,26,0.14828774752537033,282
+pan_arctic,GNN,open_water,27,0.15203072369639076,282
+pan_arctic,GNN,open_water,28,0.15529594412692083,282
+pan_arctic,GNN,open_water,29,0.15802711157249905,282
+pan_arctic,GNN,open_water,30,0.1598151271736086,282
+pan_arctic,Three-model mean,compact_ice,1,0.030953727792596815,282
+pan_arctic,Three-model mean,compact_ice,2,0.04479972926260738,282
+pan_arctic,Three-model mean,compact_ice,3,0.05383854286872956,282
+pan_arctic,Three-model mean,compact_ice,4,0.06006602728772812,282
+pan_arctic,Three-model mean,compact_ice,5,0.06466099721885651,282
+pan_arctic,Three-model mean,compact_ice,6,0.06908864026196256,282
+pan_arctic,Three-model mean,compact_ice,7,0.07316147569042336,282
+pan_arctic,Three-model mean,compact_ice,8,0.07828907601927307,282
+pan_arctic,Three-model mean,compact_ice,9,0.08213426881311328,282
+pan_arctic,Three-model mean,compact_ice,10,0.08688082803282692,282
+pan_arctic,Three-model mean,compact_ice,11,0.09071344537654709,282
+pan_arctic,Three-model mean,compact_ice,12,0.09528135787212087,282
+pan_arctic,Three-model mean,compact_ice,13,0.09903600712465614,282
+pan_arctic,Three-model mean,compact_ice,14,0.10285816486493166,282
+pan_arctic,Three-model mean,compact_ice,15,0.10703491547667426,282
+pan_arctic,Three-model mean,compact_ice,16,0.11125970119931307,282
+pan_arctic,Three-model mean,compact_ice,17,0.11507057065126253,282
+pan_arctic,Three-model mean,compact_ice,18,0.11946732697771212,282
+pan_arctic,Three-model mean,compact_ice,19,0.12366319361385547,282
+pan_arctic,Three-model mean,compact_ice,20,0.12782427485605433,282
+pan_arctic,Three-model mean,compact_ice,21,0.1323761094999282,282
+pan_arctic,Three-model mean,compact_ice,22,0.1378045747748643,282
+pan_arctic,Three-model mean,compact_ice,23,0.1418944772954755,282
+pan_arctic,Three-model mean,compact_ice,24,0.1456092815698899,282
+pan_arctic,Three-model mean,compact_ice,25,0.1494731155055492,282
+pan_arctic,Three-model mean,compact_ice,26,0.1543498090670065,282
+pan_arctic,Three-model mean,compact_ice,27,0.15758062624098756,282
+pan_arctic,Three-model mean,compact_ice,28,0.1613648831249769,282
+pan_arctic,Three-model mean,compact_ice,29,0.16548618453803837,282
+pan_arctic,Three-model mean,compact_ice,30,0.1699249430519291,282
+pan_arctic,Three-model mean,miz,1,0.039403967051315124,282
+pan_arctic,Three-model mean,miz,2,0.05857337798199186,282
+pan_arctic,Three-model mean,miz,3,0.07259167403347554,282
+pan_arctic,Three-model mean,miz,4,0.08397444554544276,282
+pan_arctic,Three-model mean,miz,5,0.0933615939629385,282
+pan_arctic,Three-model mean,miz,6,0.10173276734432311,282
+pan_arctic,Three-model mean,miz,7,0.10923439146135772,282
+pan_arctic,Three-model mean,miz,8,0.1158198346837941,282
+pan_arctic,Three-model mean,miz,9,0.12232882863644505,282
+pan_arctic,Three-model mean,miz,10,0.12837844698924922,282
+pan_arctic,Three-model mean,miz,11,0.1338034231699666,282
+pan_arctic,Three-model mean,miz,12,0.1391460332614559,282
+pan_arctic,Three-model mean,miz,13,0.14394648930775134,282
+pan_arctic,Three-model mean,miz,14,0.14815468596193074,282
+pan_arctic,Three-model mean,miz,15,0.1525512832727615,282
+pan_arctic,Three-model mean,miz,16,0.15697664973560108,282
+pan_arctic,Three-model mean,miz,17,0.16114503395954602,282
+pan_arctic,Three-model mean,miz,18,0.16543746703063447,282
+pan_arctic,Three-model mean,miz,19,0.1694282742440247,282
+pan_arctic,Three-model mean,miz,20,0.17310325531243884,282
+pan_arctic,Three-model mean,miz,21,0.17667545981642072,282
+pan_arctic,Three-model mean,miz,22,0.18000795335336886,282
+pan_arctic,Three-model mean,miz,23,0.18372726460265934,282
+pan_arctic,Three-model mean,miz,24,0.1876357324925534,282
+pan_arctic,Three-model mean,miz,25,0.19194537100667872,282
+pan_arctic,Three-model mean,miz,26,0.19611950845400747,282
+pan_arctic,Three-model mean,miz,27,0.20017206506518642,282
+pan_arctic,Three-model mean,miz,28,0.20400825815420776,282
+pan_arctic,Three-model mean,miz,29,0.20730711109038455,282
+pan_arctic,Three-model mean,miz,30,0.2107148321286521,282
+pan_arctic,Three-model mean,open_water,1,0.015212434698972037,282
+pan_arctic,Three-model mean,open_water,2,0.021986768133499666,282
+pan_arctic,Three-model mean,open_water,3,0.027955784857323945,282
+pan_arctic,Three-model mean,open_water,4,0.033475547280797095,282
+pan_arctic,Three-model mean,open_water,5,0.03898877369677855,282
+pan_arctic,Three-model mean,open_water,6,0.04403654485707184,282
+pan_arctic,Three-model mean,open_water,7,0.04911200770653839,282
+pan_arctic,Three-model mean,open_water,8,0.0532491776309913,282
+pan_arctic,Three-model mean,open_water,9,0.056961880744784886,282
+pan_arctic,Three-model mean,open_water,10,0.059986509543289684,282
+pan_arctic,Three-model mean,open_water,11,0.06322444784845761,282
+pan_arctic,Three-model mean,open_water,12,0.06597626294926984,282
+pan_arctic,Three-model mean,open_water,13,0.06902361723013595,282
+pan_arctic,Three-model mean,open_water,14,0.07257528509658155,282
+pan_arctic,Three-model mean,open_water,15,0.07547808072867633,282
+pan_arctic,Three-model mean,open_water,16,0.07780700270243521,282
+pan_arctic,Three-model mean,open_water,17,0.08081270277925583,282
+pan_arctic,Three-model mean,open_water,18,0.08283917392972631,282
+pan_arctic,Three-model mean,open_water,19,0.08512049132407472,282
+pan_arctic,Three-model mean,open_water,20,0.08761299375331245,282
+pan_arctic,Three-model mean,open_water,21,0.08996872661659779,282
+pan_arctic,Three-model mean,open_water,22,0.09174701784703569,282
+pan_arctic,Three-model mean,open_water,23,0.09385156142347637,282
+pan_arctic,Three-model mean,open_water,24,0.09587582547108087,282
+pan_arctic,Three-model mean,open_water,25,0.09733052869090772,282
+pan_arctic,Three-model mean,open_water,26,0.09822763294872701,282
+pan_arctic,Three-model mean,open_water,27,0.10011926885828185,282
+pan_arctic,Three-model mean,open_water,28,0.10184618727790276,282
+pan_arctic,Three-model mean,open_water,29,0.10360590356826281,282
+pan_arctic,Three-model mean,open_water,30,0.10480908660788797,282
+pan_arctic,U-Net,compact_ice,1,0.030638966888833802,282
+pan_arctic,U-Net,compact_ice,2,0.04366240947758877,282
+pan_arctic,U-Net,compact_ice,3,0.0515351623619648,282
+pan_arctic,U-Net,compact_ice,4,0.05713663670353917,282
+pan_arctic,U-Net,compact_ice,5,0.061306810473930246,282
+pan_arctic,U-Net,compact_ice,6,0.06593281115164777,282
+pan_arctic,U-Net,compact_ice,7,0.06940118117715784,282
+pan_arctic,U-Net,compact_ice,8,0.07374941004054977,282
+pan_arctic,U-Net,compact_ice,9,0.07749401571549462,282
+pan_arctic,U-Net,compact_ice,10,0.08315858941632871,282
+pan_arctic,U-Net,compact_ice,11,0.08497147854182137,282
+pan_arctic,U-Net,compact_ice,12,0.08821227194984213,282
+pan_arctic,U-Net,compact_ice,13,0.0923949950326095,282
+pan_arctic,U-Net,compact_ice,14,0.09543108816326111,282
+pan_arctic,U-Net,compact_ice,15,0.09903867022849894,282
+pan_arctic,U-Net,compact_ice,16,0.1023733975448268,282
+pan_arctic,U-Net,compact_ice,17,0.10504177297445312,282
+pan_arctic,U-Net,compact_ice,18,0.10889134939681663,282
+pan_arctic,U-Net,compact_ice,19,0.11208675443969655,282
+pan_arctic,U-Net,compact_ice,20,0.11383897294670106,282
+pan_arctic,U-Net,compact_ice,21,0.11739806547849903,282
+pan_arctic,U-Net,compact_ice,22,0.11992793896403696,282
+pan_arctic,U-Net,compact_ice,23,0.12158478070819415,282
+pan_arctic,U-Net,compact_ice,24,0.12342976127707694,282
+pan_arctic,U-Net,compact_ice,25,0.12560570013529287,282
+pan_arctic,U-Net,compact_ice,26,0.12729699054376747,282
+pan_arctic,U-Net,compact_ice,27,0.12984948731099077,282
+pan_arctic,U-Net,compact_ice,28,0.13216840343122108,282
+pan_arctic,U-Net,compact_ice,29,0.13501656620235647,282
+pan_arctic,U-Net,compact_ice,30,0.13785595904758277,282
+pan_arctic,U-Net,miz,1,0.03947161507584134,282
+pan_arctic,U-Net,miz,2,0.058931764441810044,282
+pan_arctic,U-Net,miz,3,0.0729914377603952,282
+pan_arctic,U-Net,miz,4,0.08400695744472714,282
+pan_arctic,U-Net,miz,5,0.09322748019110248,282
+pan_arctic,U-Net,miz,6,0.10122757709408746,282
+pan_arctic,U-Net,miz,7,0.10816911608626827,282
+pan_arctic,U-Net,miz,8,0.11445545584944436,282
+pan_arctic,U-Net,miz,9,0.12040158026834984,282
+pan_arctic,U-Net,miz,10,0.12581179181420424,282
+pan_arctic,U-Net,miz,11,0.130739629642526,282
+pan_arctic,U-Net,miz,12,0.1353939573692195,282
+pan_arctic,U-Net,miz,13,0.13939294427264942,282
+pan_arctic,U-Net,miz,14,0.14338569529583525,282
+pan_arctic,U-Net,miz,15,0.1475305202050182,282
+pan_arctic,U-Net,miz,16,0.1513894690676614,282
+pan_arctic,U-Net,miz,17,0.15492493767400928,282
+pan_arctic,U-Net,miz,18,0.15906253316876812,282
+pan_arctic,U-Net,miz,19,0.1621847181234513,282
+pan_arctic,U-Net,miz,20,0.16502694273236865,282
+pan_arctic,U-Net,miz,21,0.16832664047325285,282
+pan_arctic,U-Net,miz,22,0.1712606632356026,282
+pan_arctic,U-Net,miz,23,0.17433904248113258,282
+pan_arctic,U-Net,miz,24,0.1770669078468903,282
+pan_arctic,U-Net,miz,25,0.1803766314750967,282
+pan_arctic,U-Net,miz,26,0.183821807718329,282
+pan_arctic,U-Net,miz,27,0.1865204415139251,282
+pan_arctic,U-Net,miz,28,0.1899062842863366,282
+pan_arctic,U-Net,miz,29,0.19198121293738174,282
+pan_arctic,U-Net,miz,30,0.19423867643781803,282
+pan_arctic,U-Net,open_water,1,0.014099795690203027,282
+pan_arctic,U-Net,open_water,2,0.019508283971374545,282
+pan_arctic,U-Net,open_water,3,0.023993673626745923,282
+pan_arctic,U-Net,open_water,4,0.028062829638660778,282
+pan_arctic,U-Net,open_water,5,0.03183765026198069,282
+pan_arctic,U-Net,open_water,6,0.03500440325083606,282
+pan_arctic,U-Net,open_water,7,0.03848629054292878,282
+pan_arctic,U-Net,open_water,8,0.04076202709915337,282
+pan_arctic,U-Net,open_water,9,0.04256348320410661,282
+pan_arctic,U-Net,open_water,10,0.04366278018421442,282
+pan_arctic,U-Net,open_water,11,0.046071519992050246,282
+pan_arctic,U-Net,open_water,12,0.047475732882751004,282
+pan_arctic,U-Net,open_water,13,0.049445483376837567,282
+pan_arctic,U-Net,open_water,14,0.051313734688698265,282
+pan_arctic,U-Net,open_water,15,0.05286781634115528,282
+pan_arctic,U-Net,open_water,16,0.054562321671690145,282
+pan_arctic,U-Net,open_water,17,0.056896399403964536,282
+pan_arctic,U-Net,open_water,18,0.05793639955948881,282
+pan_arctic,U-Net,open_water,19,0.060001059126842844,282
+pan_arctic,U-Net,open_water,20,0.0630601566620013,282
+pan_arctic,U-Net,open_water,21,0.06426179820121554,282
+pan_arctic,U-Net,open_water,22,0.06648860511953134,282
+pan_arctic,U-Net,open_water,23,0.0685666876636598,282
+pan_arctic,U-Net,open_water,24,0.07079328483555725,282
+pan_arctic,U-Net,open_water,25,0.07211580905766539,282
+pan_arctic,U-Net,open_water,26,0.07354005904348085,282
+pan_arctic,U-Net,open_water,27,0.07501738979826418,282
+pan_arctic,U-Net,open_water,28,0.07630392783586307,282
+pan_arctic,U-Net,open_water,29,0.07811500269595875,282
+pan_arctic,U-Net,open_water,30,0.07931597735783374,282
