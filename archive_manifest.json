@@ -1,0 +1,80 @@
+[
+  {
+    "file": "references_2023.zip",
+    "bytes": 132092860,
+    "sha256": "70a3d82696efd5a9d0856bd2d47632e342dee39e6f98c499f61ab3c06ac58d5c",
+    "members": 94
+  },
+  {
+    "file": "predictions_cnn_2023.zip",
+    "bytes": 686417636,
+    "sha256": "320b820e958b94ab48127a54970b86fa86f4af9274128bdf0dd5303cb1c28b42",
+    "members": 94
+  },
+  {
+    "file": "predictions_unet_2023.zip",
+    "bytes": 701310562,
+    "sha256": "ce86e296f79cfb0ba0a4428f4d98dd07caaf5bd2459f29ea8ef437735d88cb19",
+    "members": 94
+  },
+  {
+    "file": "predictions_gnn_2023.zip",
+    "bytes": 784847860,
+    "sha256": "69c4e3bf7979c0fed566e30e964327e8b95d942d5ccbdf22f17aeaa9025cb184",
+    "members": 94
+  },
+  {
+    "file": "references_2024.zip",
+    "bytes": 124665235,
+    "sha256": "51835dd34c2db5a54cef4b9094b4c3775e10217270388909c0eef80a53fb8aa2",
+    "members": 94
+  },
+  {
+    "file": "predictions_cnn_2024.zip",
+    "bytes": 672175119,
+    "sha256": "3a2bffed23e055db2817df8b294ae4fba6bcdd38a8937e0ac043e710e60b1ee6",
+    "members": 94
+  },
+  {
+    "file": "predictions_unet_2024.zip",
+    "bytes": 689878935,
+    "sha256": "2c7e2b1586600215fb6c10551672dd3b1d21432db76d399321a91c938897b51a",
+    "members": 94
+  },
+  {
+    "file": "predictions_gnn_2024.zip",
+    "bytes": 784406459,
+    "sha256": "767be4174fbc52097c2024f11d918ec06de9444c5ea92e731f0e0e8b47d5508f",
+    "members": 94
+  },
+  {
+    "file": "references_2025.zip",
+    "bytes": 127380640,
+    "sha256": "3dddcd5560e06ae104f1cc97d20cd77e4af9ba1fe1b047148089a9c2f92c1fa5",
+    "members": 94
+  },
+  {
+    "file": "predictions_cnn_2025.zip",
+    "bytes": 675215171,
+    "sha256": "454dd9d2f7eb69acccbad53d52a362479c4d1eeee0477ae0b912ecdb81a7b852",
+    "members": 94
+  },
+  {
+    "file": "predictions_unet_2025.zip",
+    "bytes": 698984002,
+    "sha256": "a07e9e8dbf6d2747eeb34bbb3d3b1b8586ba625f602c22e8d279c26364f02d36",
+    "members": 94
+  },
+  {
+    "file": "predictions_gnn_2025.zip",
+    "bytes": 772808215,
+    "sha256": "2769793e49ecf5d6fced5cf82f156b94d15c44382c6d16eb14edc27282fcdf2e",
+    "members": 94
+  },
+  {
+    "file": "evaluation_context.zip",
+    "bytes": 684879452,
+    "sha256": "097d70393e8c33b7b8281a83c2622649c62e99c2b1ebe6771f3c4dcddf039894",
+    "members": 283
+  }
+]
